@@ -1,0 +1,18 @@
+/********Tag Selectors***/
+
+body {
+  background-color: #eaf6f6;
+    }
+  hr {
+background-color: blue;
+}
+/******Class Selectors*******/
+
+.different {
+background-color: blue;
+
+}
+/*******ID Selectors*******/
+#heading {
+background-color: blue;
+}
